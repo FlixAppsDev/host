@@ -99,32 +99,61 @@
    ],
    "CHANNELS":[
       {
-         "channelsName":"GROUP A"
+         "channelsName":"ARABIC SPORTS CHANNELS"
       },
       {
-         "channelsName":"GROUP A"
-      },
-       {
-         "channelsName":"GROUP A"
+         "channelsName":"ENGLISH SPORTS CHANNELS"
       },
       {
-         "channelsName":"GROUP A"
-      },
-       {
-         "channelsName":"GROUP A"
-      },
-       {
-         "channelsName":"GROUP A"
+         "channelsName":"FRENCH SPORTS CHANNELS"
       },
       {
-         "channelsName":"GROUP A"
-      },
-       {
-         "channelsName":"GROUP A"
+         "channelsName":"SPANISH SPORTS CHANNELS"
       },
       {
-         "channelsName":"GROUP A"
+         "channelsName":""
       },
+      {
+         "channelsName":"GERMANY SPORTS CHANNELS"
+      },
+      {
+         "channelsName":"PORTUGAL SPORTS CHANNELS"
+      },
+      {
+         "channelsName":"CANADA SPORTS CHANNELS"
+      },
+      {
+         "channelsName":"CANADA SPORTS CHANNELS"
+      }
+   ],
+   "CHANNEL":[
+      {
+         "channelsName":"SPORT 1"
+      },
+      {
+         "channelsName":"SPORT 2"
+      },
+      {
+         "channelsName":"SPORT 3"
+      },
+      {
+         "channelsName":"SPORT 4"
+      },
+      {
+         "channelsName":""
+      },
+      {
+         "channelsName":"SPORT 5"
+      },
+      {
+         "channelsName":"SPORT 6"
+      },
+      {
+         "channelsName":"SPORT 7"
+      },
+      {
+         "channelsName":"SPORT 8"
+      }
    ],
    "A":[
       {
