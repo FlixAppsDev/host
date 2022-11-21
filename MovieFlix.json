@@ -17,12 +17,12 @@
       "UnityBanner":"Banner_Android",
       "UnityReword":"Rewarded_Android",
 	  
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
+      "ApplovinInterstitial":"6510ec126c7dab85",
+      "ApplovinBanner":"8dce4d13ece57ef2",
 	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
+      "MaxInterstitial":"b83be7ec431c4a5c",
+      "MaxBanner":"a9bfd4a452fc4bb5",
+      "MaxNative" : "878439d611dfb135",
 
       "IronKey" : "",
       "AdsCount" : "6",  
@@ -32,7 +32,7 @@
       
       "ActiveApp" : "yes",
      
-      "Switch":"fan"
+      "Switch":"applovin"
 	  
  
     }
