@@ -11,7 +11,7 @@
       "FanBanner":"2211854268998073_2211871312329702",
       "FanNative" : "2211854268998073_2211873028996197",
 	  	  
-      "UnityGame":"",
+      "UnityGame":"5171833",
       "UnityInterstitial":"Interstitial_Android",
       "UnityBanner":"Banner_Android",
 	  
@@ -19,7 +19,7 @@
       "AdsCount" : "3",  
 
     
-      "Switch":"fan"
+      "Switch":"unity"
 	  
  
     }
